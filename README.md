@@ -7,21 +7,21 @@
 - Trying to learn new thing every day
 
 ## Data
--  GraphQL (Apollo library), Retrofit2, 
+-  GraphQL (Apollo library), Retrofit2, Socket
 -  SharedPreference, DataStore, Room
--  Socket
+-  ......................
 ## UI
+- A little knowledge about custom complicated view : https://github.com/dattran2k/AndroidSwipeBackLayout
 - Well knowledge about most common view : ViewPager2, FrameLayout, .......
 - Fimilar with animation transition, Lottie library.
 - MediaPlayer : Video player, Audio Player, ...
 - 3rd party library : Glide, EventBus, Shimmer, ExoPlayer, ....
-- A little knowledge about custom complicated view : https://github.com/dattran2k/AndroidSwipeBackLayout
 ## Other
+- Knowledge about Reactive programing : https://github.com/dattran2k/About-NowInAndroid-flow
 - Able to setup common structure project : Gradle, Build Flavor, MVVP, ....
 - Worked with Bluetooth Low Energy ( BLE ) ...
 - MVVM, MVP, Clean Architecture
 - Familiar with Firebase Service : FCM, Crashlytics, DynamicLink,. ....
-- Knowledge about Reactive programing : https://github.com/dattran2k/About-NowInAndroid-flow
 - Basic Unit test
 ## What I didn't learn yet
 - Spotless
