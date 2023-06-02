@@ -20,6 +20,7 @@
 - Knowledgeable in Reactive programming. You can refer to my work on the topic here: https://github.com/dattran2k/About-NowInAndroid-flow
 - Proficient in setting up common project structures, including Gradle, Build Flavor, MVVM, and more.
 - Experience working with Bluetooth Low Energy (BLE).
+- Familiar with some design pattern : Factory, observer, singleton . Able to setup 3rd library : Hilt, Dagger , ....
 - Familiar with MVVM, MVP, and Clean Architecture.
 - Proficient in utilizing Firebase services such as FCM, Crashlytics, and Dynamic Links.
 - Basic knowledge of unit testing.
