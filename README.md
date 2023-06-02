@@ -1,29 +1,29 @@
 # Hello, I'm Android Developer from Vietnam
 
-## About me as Android Developer:
+## About me as Android Developer 🧑‍💻:
 
 - Work independently, team 
 - Intermediate English 
 - Trying to learn new thing every day
 
-## Data
+## Data 📦
 -  GraphQL (Apollo library), Retrofit2, Socket
 -  SharedPreference, DataStore, Room
 -  etc......................
-## UI
+## UI 🖼️
 - A little knowledge about custom complicated view : https://github.com/dattran2k/AndroidSwipeBackLayout
 - Well knowledge about most common view : ViewPager2, FrameLayout, .......
 - Fimilar with animation transition, Lottie library.
 - MediaPlayer : Video player, Audio Player, ...
 - 3rd party library : Glide, EventBus, Shimmer, ExoPlayer, ....
-## Other
+## Other 📄
 - Knowledge about Reactive programing : https://github.com/dattran2k/About-NowInAndroid-flow
 - Able to setup common structure project : Gradle, Build Flavor, MVVP, ....
 - Worked with Bluetooth Low Energy ( BLE ) ...
 - MVVM, MVP, Clean Architecture
 - Familiar with Firebase Service : FCM, Crashlytics, DynamicLink,. ....
 - Basic Unit test
-## What I didn't learn yet
+## What I didn't learn yet 🤷‍♂️
 - Spotless
 - CI/CD
 - Master about setup Gradle, config project, ....
