@@ -5,6 +5,7 @@
 - I have over three years of working as an Android Developer
 - I strive to learn new things every day.
 - If there are any technology require to use in project that I don't khow, I'll learn that, don't worry
+- Work with kotlin, coroutines, MVVM every day
 
 ## Data 📦
 -  Experience with GraphQL (Apollo library), Retrofit2, and Socket, .....
@@ -14,7 +15,7 @@
 - A little knowledge about custom complicated view : https://github.com/dattran2k/AndroidSwipeBackLayout
 - Well knowledge about most common view : ViewPager2, FrameLayout, .......
 - Knowledgeable in animation : transition, Lottie library.
-- Skilled in working with MediaPlayer for video and audio playback.
+- Worked with media player with ExoPlayer
 - Proficient in using third-party libraries like Glide, EventBus, Shimmer, ExoPlayer, and more.
 ## Other 📄
 - Knowledgeable in Reactive programming. You can refer to my work on the topic here: https://github.com/dattran2k/About-NowInAndroid-flow
