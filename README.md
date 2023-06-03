@@ -15,13 +15,13 @@
 - A little knowledge about custom complicated view : https://github.com/dattran2k/AndroidSwipeBackLayout
 - Well knowledge about most common view : ViewPager2, FrameLayout, .......
 - Knowledgeable in animation : transition, Lottie library.
-- Worked with media player with ExoPlayer
-- Proficient in using third-party libraries like Glide, EventBus, Shimmer, ExoPlayer, and more.
+- Proficient in using third-party libraries like Glide, EventBus, Shimmer, ExoPlayer, and more more.
 ## Other 📄
 - Knowledgeable in Reactive programming. You can refer to my work on the topic here: https://github.com/dattran2k/About-NowInAndroid-flow
-- Proficient in setting up common project structures, including Gradle, Build Flavor, MVVM, and more.
+- Proficient in setting up common, base project structures, including Gradle, Build Flavor, Architecture, ...
 - Experience working with Bluetooth Low Energy (BLE).
-- Familiar with some design pattern : Factory, observer, singleton . Able to setup 3rd library : Hilt, Dagger , ....
+- Familiar with some design pattern : Factory, observer, singleton, .... 
+- Able to setup 3rd library : Hilt, Dagger, .... for DI
 - Familiar with MVVM, MVP, and Clean Architecture.
 - Proficient in utilizing Firebase services such as FCM, Crashlytics, and Dynamic Links.
 - Basic knowledge of unit testing.
