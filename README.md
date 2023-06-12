@@ -13,4 +13,5 @@
   - [**Base XML Android MVVM**](https://github.com/dattran2k/base_mvvm_android)
   - [**Base Jetpack Compose MVVM**](https://github.com/dattran2k/base_jetpack_compose)
   - [**Custom swipeable view**](https://github.com/dattran2k/AndroidSwipeBackLayout)
+  - [**Some random Flutter project**]("https://github.com/dattran2k/thanh_nien_flutter")
 
