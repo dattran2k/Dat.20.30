@@ -7,7 +7,7 @@
 - Android APIS, Jetpack Compose, Android Design patterns (MVP, MVVM)
 - Coroutines, RxAndroid, Reactive programming concepts, you can refer to my work on the [**TOPIC**](https://github.com/dattran2k/About-NowInAndroid-flow)
 - Data persitence : SharedPreference, DataStore, Room, Realm, GraphQL (Apollo), ...
-- Experience working with Bluetooth Low Energy (BLE).
+- Experience working with Bluetooth Low Energy (BLE), responsive for difference type of device.
 ## Other 
 - I am always eager to learn about project structure and new technologies
   - [**Base XML Android MVVM**](https://github.com/dattran2k/base_mvvm_android)
