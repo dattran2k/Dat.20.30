@@ -1,4 +1,4 @@
-# Hello, I'm Android App Developer from Vietnam
+# Hello, I'm Android App Developer
 
 ## What am I doing 
 ### I'm creating cool app and library
