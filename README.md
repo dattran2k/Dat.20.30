@@ -1,7 +1,5 @@
 # Hello, I'm Android App Developer
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dattran2k&show_icons=true&locale=en" alt="dattran2k" /></p>
-
 ## What am I doing 
 ### I'm creating cool app and library
   - Jetpack Compose Catalog - [**Click here**](https://github.com/dattran2k/Jetpack-Compose-Catalog)
