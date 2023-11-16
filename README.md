@@ -1,4 +1,3 @@
-# Hello, I'm Android App Developer
   - Jetpack Compose Catalog - [**Click here**](https://github.com/dattran2k/Jetpack-Compose-Catalog)
   - Custom swipeable view - [**Click here**](https://github.com/dattran2k/AndroidSwipeBackLayout)
   - A random Bloc Flutter project - [**Click here**](https://github.com/dattran2k/thanh_nien_flutter)
